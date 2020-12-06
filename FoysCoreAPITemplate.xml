@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FoysCoreAPITemplate</name>
+    </assembly>
+    <members>
+        <member name="T:FoysCoreAPITemplate.Controllers.WeatherForecastController">
+            <summary>
+            Retrieve a planet's average temperature!
+            </summary>
+        </member>
+        <member name="M:FoysCoreAPITemplate.Controllers.WeatherForecastController.EarthWeather">
+            <summary>
+            Avg. Weather on Earth
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FoysCoreAPITemplate.Controllers.WeatherForecastController.NeptuneWeather">
+            <summary>
+            Avg. Weather on Neptune
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FoysCoreAPITemplate.Program.InitializeLog4NetLogging">
+            <summary>
+            Currently not in use/not implemented
+            </summary>
+        </member>
+    </members>
+</doc>
